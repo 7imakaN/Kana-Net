@@ -1,2 +1,5 @@
 # imakaN Website
-Website dengan HTML dan CSS only yang dibuat untuk keperluan eskul OPTION di SMAN 10 Bekasi.
+Website yang dibuat dengan HTML dan CSS only.
+
+Minus :
+- Belum Responsive
