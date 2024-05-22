@@ -1,4 +1,7 @@
 <h1>Kana Net</h1>
-<a>Website Portofolio yang dibuat untuk memenuhi tugas akhir Option. Dan juga dibuat hanya menggunakan HTML dan CSS Only.</a>
+<p>Website Portofolio yang dibuat untuk memenuhi tugas akhir Option. Dan juga dibuat hanya menggunakan HTML dan CSS Only.</p>
 
-<a>- Minus belum responsive.</a>
+<b>Minus :<b/>
+
+• Belum responsive \
+• Belum ada JavaScript 
