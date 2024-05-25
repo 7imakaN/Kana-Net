@@ -4,4 +4,4 @@
 <b>Minus :<b/>
 
 • Belum responsive \
-• Belum ada JavaScript 
+• Belum menggunakan JavaScript 
